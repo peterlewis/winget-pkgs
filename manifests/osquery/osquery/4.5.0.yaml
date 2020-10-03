@@ -1,0 +1,17 @@
+---
+
+Id: osquery.osquery
+Version: 4.5.0
+Name: osquery
+Publisher: osquery
+License: Apache-2.0 OR GPL-2.0-only
+LicenseUrl: https://github.com/osquery/osquery/blob/master/LICENSE
+AppMoniker: osquery
+Description: osquery is a SQL powered operating system instrumentation, monitoring, and analytics framework.
+Homepage: https://osquery.io/
+Installers:
+  - Arch: x64
+    Url: https://pkg.osquery.io/windows/osquery-4.5.0.msi
+    Sha256: 0E66C7AC858997C9D1768CCCB315DD96038E87EF1CA424168C31226CA7D88A37
+    InstallerType: msi
+
