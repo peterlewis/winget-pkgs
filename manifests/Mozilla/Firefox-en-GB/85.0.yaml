@@ -24,7 +24,7 @@ InstallerType: msi
 Installers:
   - Arch: x64
     Url: https://download-installer.cdn.mozilla.net/pub/firefox/releases/85.0/win64/en-GB/Firefox%20Setup%2085.0.msi
-    Sha256: A8A3B134C5A8E34E834FC8E47DEFF3371E02157FDB7CF746EC927C02FBDE7C29
+    Sha256: 60150981a37991705cb9de1787cc0852332719c8819d6cbae6982756dc5fb442
     Scope: machine
     Language: en-GB
   #- Arch: x86                  # Support for multiple installers are not supported in this preview (5/24/2020)
